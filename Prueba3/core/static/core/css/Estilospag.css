@@ -1,0 +1,43 @@
+.Fondobandana{
+    background-color: aquamarine;
+}
+.correa{
+    background-color: aquamarine;
+}
+.identificaciones{
+    background-color: aquamarine;
+}
+#identificador{
+    text-align: center;
+}
+#bandanaperro{
+    text-align: center;
+    
+}
+#Correa{
+    text-align: center;
+}
+.Margen{
+    background-color:aquamarine ;
+    margin: auto;
+    width: 80%;
+    border: 3px solid aquamarine;
+    padding: 10px;
+
+}
+.row{
+    margin: auto;
+    width: 20%;
+    padding: 10px;
+
+}
+.center{
+    margin: auto;
+    width: 60%;
+    border: 3px solid aquamarine;
+    padding: 10px;
+
+}
+.btn{
+    text-align: right;
+}

@@ -1,0 +1,48 @@
+.Margen{
+    background-color:aquamarine ;
+    margin: auto;
+    width: 80%;
+    border: 3px solid aquamarine;
+    padding: 10px;
+
+}
+.Fondo{
+    background-color: aquamarine;
+}
+.row{
+    background-color:aquamarine ;
+    margin: auto;
+    width: 40%;
+    border: 3px solid aquamarine;
+    padding: 10px;
+
+}
+#Posicion{
+    text-align: center;
+    width: 100%;
+    text-transform: uppercase;
+}
+.carousel-inner{
+    text-align: center;
+
+}
+
+.cama{
+    color: blue;
+    text-decoration: underline;
+    background-color: yellow;
+}
+.comida{
+    color: blue;
+    text-decoration: underline;
+    background-color: yellow;
+}
+.correa{
+    color: blue;
+    text-decoration: underline;
+    background-color: yellow;
+}
+#dog{
+    text-align: left;
+    
+}
